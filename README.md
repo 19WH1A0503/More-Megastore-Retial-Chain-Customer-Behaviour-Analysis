@@ -28,7 +28,8 @@ Prior activity represented as aggregate indicators
 Realistic constraint reflecting typical corporate data access
 
 # Analytical Approach
-1. Data Preparation (Python)
+<ul>
+<li> Data Preparation (Python)
 Loaded and inspected raw customer data
 Identified and addressed missing values using category-level median imputation for review ratings
 Standardized column naming for cross-platform consistency
@@ -36,7 +37,9 @@ Engineered new analytical features:
 Age-based customer groups
 Numeric purchase frequency (days between purchases)
 Removed redundant promotional fields after validation
-2. Database Analysis (PostgreSQL)
+  </li>
+  <li>
+Database Analysis (PostgreSQL)
 Persisted cleaned data into a relational database
 Used SQL for business-driven analysis, including:
 Revenue breakdowns by demographic segments
@@ -45,7 +48,9 @@ Customer segmentation using behavioral thresholds
 Product rankings using window functions
 Subscription adoption among repeat buyers
 SQL queries are organized by analytical theme for readability and reuse.
-3. Visualization & Reporting (Power BI)
+</li>
+  <li>
+Visualization & Reporting (Power BI)
 Built an interactive dashboard for stakeholder consumption
 Created KPI cards for customer count, average spend, and ratings
 Designed slicers for dynamic filtering by:
@@ -54,7 +59,8 @@ Gender
 Product category
 Shipping type
 Focused visuals on revenue drivers and customer segments rather than decorative charts
-
+    </li>
+</ul>
 # Key Insights
 Younger customer segments contributed the highest share of revenue
 Customers using express shipping showed higher average purchase amounts
