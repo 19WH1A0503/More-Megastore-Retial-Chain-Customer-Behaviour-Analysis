@@ -61,16 +61,21 @@ Shipping type
 Focused visuals on revenue drivers and customer segments rather than decorative charts
     </li>
 </ul>
+
 # Key Insights
-Younger customer segments contributed the highest share of revenue
-Customers using express shipping showed higher average purchase amounts
-Several products relied heavily on discounts, signaling pricing sensitivity
-A large portion of repeat buyers were not enrolled in subscriptions
-High-rated products presented opportunities for premium positioning
+<ul>
+<li>Younger customer segments contributed the highest share of revenue</li>
+<li>Customers using express shipping showed higher average purchase amounts</li>
+<li>Several products relied heavily on discounts, signaling pricing sensitivity</li>
+<li>A large portion of repeat buyers were not enrolled in subscriptions</li>
+<li>High-rated products presented opportunities for premium positioning</li>
+</ul>
 
 # Business Recommendations
-Expand express shipping options to high-value customer segments
-Reassess discount strategies for products with strong organic demand
-Target repeat buyers with subscription-focused campaigns
-Align marketing efforts with age groups driving the majority of revenue
-Prioritize inventory and promotion for top-performing product-category pairs
+<ul>
+<li>Expand express shipping options to high-value customer segments</li>
+<li>Reassess discount strategies for products with strong organic demand</li>
+<li>Target repeat buyers with subscription-focused campaigns</li>
+<li>Align marketing efforts with age groups driving the majority of revenue</li>
+<li>Prioritize inventory and promotion for top-performing product-category pairs</li>
+</ul>
