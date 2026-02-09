@@ -51,8 +51,8 @@ Product rankings using window functions
 Subscription adoption among repeat buyers
 SQL queries are organized by analytical theme for readability and reuse.
 </li>
+  
   <li>
-    <img width="1007" height="551" alt="Screenshot 2026-02-08 at 8 06 55 pm" src="https://github.com/user-attachments/assets/dadff666-fc5b-4654-a73b-2beb262da8cb" />
 Visualization & Reporting (Power BI)
 Built an interactive dashboard for stakeholder consumption
 Created KPI cards for customer count, average spend, and ratings
@@ -64,6 +64,8 @@ Shipping type
 Focused visuals on revenue drivers and customer segments rather than decorative charts
     </li>
 </ul>
+ <img width="1007" height="551" alt="Screenshot 2026-02-08 at 8 06 55 pm" src="https://github.com/user-attachments/assets/dadff666-fc5b-4654-a73b-2beb262da8cb" />
+
 
 # Key Insights
 <ul>
