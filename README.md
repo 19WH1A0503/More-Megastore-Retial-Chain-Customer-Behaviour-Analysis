@@ -1,16 +1,18 @@
 # More-Megastore-Retial-Chain-Customer-Behaviour-Analysis
 
-Overview
+# Overview
 This project analyzes customer shopping behavior for a retail business to identify purchasing patterns, customer segments, and product performance drivers. The objective was to convert raw transactional and behavioral data into insights that support decisions across marketing, pricing, subscriptions, and delivery strategy.
 The work follows a company-style analytics workflow, moving from data preparation to database analysis and stakeholder-ready reporting.
-Business Objective
+
+# Business Objective
 Leadership observed shifts in customer purchasing patterns across demographics, product categories, promotions, and sales channels.
 The goal was to answer:
 Which customer segments drive the most revenue?
 How do discounts and subscriptions influence spending behavior?
 Which products perform well organically vs relying on promotions?
 Where should the business focus retention and delivery investments?
-Data Overview
+
+#Data Overview
 The dataset represents one record per customer, capturing their most recent purchase along with historical behavior indicators.
 Key attributes include:
 Demographics: age, gender
@@ -23,7 +25,8 @@ Known limitations
 No full transaction history per customer
 Prior activity represented as aggregate indicators
 Realistic constraint reflecting typical corporate data access
-Analytical Approach
+
+# Analytical Approach
 1. Data Preparation (Python)
 Loaded and inspected raw customer data
 Identified and addressed missing values using category-level median imputation for review ratings
@@ -50,13 +53,15 @@ Gender
 Product category
 Shipping type
 Focused visuals on revenue drivers and customer segments rather than decorative charts
-Key Insights
+
+# Key Insights
 Younger customer segments contributed the highest share of revenue
 Customers using express shipping showed higher average purchase amounts
 Several products relied heavily on discounts, signaling pricing sensitivity
 A large portion of repeat buyers were not enrolled in subscriptions
 High-rated products presented opportunities for premium positioning
-Business Recommendations
+
+# Business Recommendations
 Expand express shipping options to high-value customer segments
 Reassess discount strategies for products with strong organic demand
 Target repeat buyers with subscription-focused campaigns
