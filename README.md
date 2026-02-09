@@ -27,6 +27,8 @@ No full transaction history per customer
 Prior activity represented as aggregate indicators
 Realistic constraint reflecting typical corporate data access
 
+
+
 # Analytical Approach
 <ul>
 <li> Data Preparation (Python)
@@ -51,6 +53,7 @@ SQL queries are organized by analytical theme for readability and reuse.
 </li>
   <li>
 Visualization & Reporting (Power BI)
+    <img width="1007" height="551" alt="Screenshot 2026-02-08 at 8 06 55 pm" src="https://github.com/user-attachments/assets/dadff666-fc5b-4654-a73b-2beb262da8cb" />
 Built an interactive dashboard for stakeholder consumption
 Created KPI cards for customer count, average spend, and ratings
 Designed slicers for dynamic filtering by:
@@ -65,6 +68,7 @@ Focused visuals on revenue drivers and customer segments rather than decorative 
 # Key Insights
 <ul>
 <li>Younger customer segments contributed the highest share of revenue</li>
+  <img width="362" height="121" alt="Screenshot 2026-02-08 at 8 03 57 pm" src="https://github.com/user-attachments/assets/1a8f0a8b-5ac7-4a32-aa2b-a6ee6d42cb0e" />
 <li>Customers using express shipping showed higher average purchase amounts</li>
 <li>Several products relied heavily on discounts, signaling pricing sensitivity</li>
 <li>A large portion of repeat buyers were not enrolled in subscriptions</li>
