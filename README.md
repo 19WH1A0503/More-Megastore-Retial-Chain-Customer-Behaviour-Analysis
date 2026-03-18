@@ -1,7 +1,7 @@
 # More-Megastore-Retial-Chain-Customer-Behaviour-Analysis
 
 # Overview
-More Megastore is a mojor Indian food and grocery chain operating hunderederds of supermarkkets across major cities. The company has significant amount of data on customer demographoics, shopping behaviour, engagement.
+More Megastore is a major Indian food and grocery chain operating hunderederds of supermarkets across major cities. The company has significant amount of data on customer demographoics, shopping behaviour, engagement.
 This project analyzes customer shopping behavior for a retail business to identify purchasing patterns, customer segments, and product performance drivers. The objective was to convert raw transactional and behavioral data into insights that support decisions across marketing, pricing, subscriptions, and delivery strategy.
 The work follows a company-style analytics workflow, moving from data preparation to database analysis and stakeholder-ready reporting.
 
